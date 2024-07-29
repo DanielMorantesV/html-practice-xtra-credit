@@ -1,0 +1,44 @@
+body {
+    background-color: rgba(130, 186, 126, 0.769);
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+
+div {
+    align-items: left;
+}
+.green {
+    color: green;
+}
+.Treb {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.big {
+    font-size: 40px;
+}
+.small {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: white;
+}
+.img {
+    display: flex;
+    justify-content: center;
+    
+}
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.under {
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+
+}
+}
